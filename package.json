@@ -1,7 +1,7 @@
 {
   "name": "ionic-hello-world",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "Sebastian Baar",
+  "homepage": "http://sebastianbaar.de/",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
